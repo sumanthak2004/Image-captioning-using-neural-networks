@@ -1,4 +1,4 @@
-# **Image Captioning Using Attention Mechanism**
+# **Image Captioning Using Neural Networks**
 
 ### **ABSTRACT**
 
